@@ -1,0 +1,7 @@
+{
+  "name": "aliyun-ddns",
+  "version": "1.0.0",
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.10"
+  }
+}
